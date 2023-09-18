@@ -284,3 +284,15 @@ C:\Users\Jacqui.Muller\Downloads\SuperStore P3\SuperStore P3\SuperStore P3\obj\D
 C:\Users\Jacqui.Muller\Downloads\SuperStore P3\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.pdb
 C:\Users\Jacqui.Muller\Downloads\SuperStore P3\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.genruntimeconfig.cache
 C:\Users\Jacqui.Muller\Downloads\SuperStore P3\SuperStore P3\SuperStore P3\obj\Debug\net6.0\ref\EcoPower_Logistics.dll
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.csproj.AssemblyReference.cache
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.AssemblyInfoInputs.cache
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.AssemblyInfo.cs
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.csproj.CoreCompileInputs.cache
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.RazorAssemblyInfo.cache
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.RazorAssemblyInfo.cs
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.dll
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\refint\EcoPower_Logistics.dll
+C:\Users\itstudent\Desktop\CMPG323-Project3-31967000\EcoPower_Logistics (1)\SuperStore P3\SuperStore P3\obj\Debug\net6.0\EcoPower_Logistics.pdb

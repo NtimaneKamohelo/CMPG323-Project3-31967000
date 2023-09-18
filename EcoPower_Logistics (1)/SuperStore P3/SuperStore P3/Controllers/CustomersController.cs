@@ -16,10 +16,12 @@ namespace Controllers
     public class CustomersController : Controller
     {
         private readonly SuperStoreContext _context;
+        private readonly ICustomerRepository _customerRepository;
 
-        public CustomersController(SuperStoreContext context)
+        public CustomersController(SuperStoreContext context, ICustomerRepository customerRepository)
         {
             _context = context;
+            _customerRepository = customerRepository;
         }
 
         // GET: Customers
