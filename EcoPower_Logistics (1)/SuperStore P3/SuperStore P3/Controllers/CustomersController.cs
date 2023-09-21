@@ -16,12 +16,12 @@ namespace Controllers
     public class CustomersController : Controller
     {
         private readonly SuperStoreContext _context;
-        private readonly ICustomerRepository _customerRepository;
+        //private readonly ICustomerRepository _customerRepository;
 
-        public CustomersController(SuperStoreContext context, ICustomerRepository customerRepository)
+        public CustomersController(SuperStoreContext context /*,ICustomerRepository customerRepository*/)
         {
             _context = context;
-            _customerRepository = customerRepository;
+            //_customerRepository = customerRepository;
         }
 
         // GET: Customers
@@ -33,6 +33,10 @@ namespace Controllers
             return _context.Customers != null ?
                         View(await _context.Customers.ToListAsync()) :
                         Problem("Entity set 'SuperStoreContext.Customers'  is null.");
+
+            /*var results = _customerRepository.GetAll();
+
+            return View(results);*/
         }
 
         // GET: Customers/Details/5

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itstudent\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {}
+    "C:\\Users\\ntima\\OneDrive\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itstudent\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {
+    "C:\\Users\\ntima\\OneDrive\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itstudent\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+        "projectUniqueName": "C:\\Users\\ntima\\OneDrive\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
         "projectName": "EcoPower_Logistics",
-        "projectPath": "C:\\Users\\itstudent\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
-        "packagesPath": "C:\\Users\\itstudent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itstudent\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\obj\\",
+        "projectPath": "C:\\Users\\ntima\\OneDrive\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\EcoPower_Logistics.csproj",
+        "packagesPath": "C:\\Users\\ntima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ntima\\OneDrive\\Desktop\\CMPG323-Project3-31967000\\EcoPower_Logistics (1)\\SuperStore P3\\SuperStore P3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\itstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ntima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

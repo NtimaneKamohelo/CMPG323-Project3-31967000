@@ -16,15 +16,20 @@ namespace Controllers
     public class ProductsController : Controller
     {
         private readonly SuperStoreContext _context;
+        //private readonly IProductRepository _productRepository; 
 
-        public ProductsController(SuperStoreContext context)
+        public ProductsController(SuperStoreContext context /*, IProductRepository productRepository*/)
         {
             _context = context;
+            //_productRepository = productRepository;
         }
 
         // GET: Products
         public async Task<IActionResult> Index()
         {
+            /*var results = _productRepository.GetAll();
+            return View(results);*/
+
             ProductRepository productRepository = new ProductRepository();
             var results = productRepository.GetAll();
 

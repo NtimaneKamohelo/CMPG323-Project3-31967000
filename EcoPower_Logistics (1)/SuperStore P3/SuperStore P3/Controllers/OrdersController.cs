@@ -16,15 +16,20 @@ namespace Controllers
     public class OrdersController : Controller
     {
         private readonly SuperStoreContext _context;
+        //private readonly IOrderRepository _orderRepository;
 
-        public OrdersController(SuperStoreContext context)
+        public OrdersController(SuperStoreContext context /*, IOrderRepository orderRepository*/)
         {
             _context = context;
+            //_orderRepository = orderRepository;
         }
 
         // GET: Orders
         public async Task<IActionResult> Index()
         {
+            /*var results = _orderRepository.GetAll();
+            return View(results);*/
+
             OrdersRepository orderRepository = new OrdersRepository();
             var results = orderRepository.GetAll();
 
